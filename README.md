@@ -22,7 +22,7 @@ Final report: Presentation on methodology and results on findings as well as fur
 
 Tableau: Visualizations on findings as a story board.
 
-https://public.tableau.com/app/profile/jenny.m3993/viz/CFRockbusterProject/TotalRevenuePerFilmGenre
+[Tableau Story Board](https://public.tableau.com/app/profile/jenny.m3993/viz/CFRockbusterProject/TotalRevenuePerFilmGenre)
 
 SQL Queries: Documentation of queries in Excel file.
 
